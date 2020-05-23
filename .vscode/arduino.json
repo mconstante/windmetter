@@ -3,5 +3,5 @@
     "configuration": "cpu=atmega328old",
     "programmer": "AVRISP mkII",
     "port": "/dev/tty.wchusbserial142240",
-    "sketch": "led/led.ino"
+    "sketch": "vane/vane001.ino"
 }
