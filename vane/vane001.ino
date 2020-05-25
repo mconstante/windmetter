@@ -21,7 +21,7 @@ int INCn; //bit holding increasing magnet field error data
 int OCF; //bit holding startup-valid bit
 int COF; //bit holding cordic DSP processing error data
 int LIN; //bit holding magnet field displacement error data
-int debug = 0; //SET THIS TO 0 TO DISABLE PRINTING OF ERROR CODES
+int debug = 1; //SET THIS TO 0 TO DISABLE PRINTING OF ERROR CODES
 int shortdelay = 100; // this is the microseconds of delay in the data clock
 int longdelay = 100; // this is the milliseconds between readings
 

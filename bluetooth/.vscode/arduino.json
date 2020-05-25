@@ -1,7 +1,6 @@
 {
     "board": "arduino:avr:nano",
     "configuration": "cpu=atmega328old",
-    "programmer": "AVRISP mkII",
     "port": "/dev/tty.wchusbserial142240",
-    "sketch": "bluetooth/bluetooth.ino"
+    "sketch": "bluetooth.ino"
 }
